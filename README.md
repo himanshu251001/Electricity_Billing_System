@@ -1,14 +1,15 @@
 # Electricity_Billing_System
 
-**Here is a user interface created with Java Swing and AWT(Abstract Window Toolkit). It enables the user to carry out various tasks, such as:
+**Here is a user interface created with Java Swing and AWT(Abstract Window Toolkit). It enables the user to carry out various tasks, such as:**
 
-1. Creating a login for security reasons.
+**1. Creating a login for security reasons.
 
 2. Adding customers and computing their electricity bills.
 
 3. Paying electricity bills.
 
-4. Generating a bill. **
+4. Generating a bill.**
+
 
 **About Project**
 
